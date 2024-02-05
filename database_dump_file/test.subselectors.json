@@ -1,0 +1,839 @@
+[{
+  "_id": {
+    "$oid": "65bcf96d0bbd4740c2359bfc"
+  },
+  "name": "Bakery & confectionery products",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:17:17.930Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:17:17.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf97d0bbd4740c2359c00"
+  },
+  "name": "Beverages",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:17:33.652Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:17:33.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9a30bbd4740c2359c04"
+  },
+  "name": "Fish & fish products",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:18:11.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:18:11.158Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9b60bbd4740c2359c08"
+  },
+  "name": "Meat & meat products",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:18:30.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:18:30.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9d20bbd4740c2359c0c"
+  },
+  "name": "Milk & dairy",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:18:58.417Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:18:58.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9e00bbd4740c2359c10"
+  },
+  "name": "Other",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:19:12.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:19:12.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9f50bbd4740c2359c14"
+  },
+  "name": "Sweets & snack food",
+  "selectorsId": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:19:33.718Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:19:33.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfa3f0bbd4740c2359c18"
+  },
+  "name": "Bathroom/sauna",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:20:47.697Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:20:47.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfa590bbd4740c2359c1c"
+  },
+  "name": "Bedroom",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:21:13.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:21:13.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfa690bbd4740c2359c20"
+  },
+  "name": "Children’s room",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:21:29.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:21:29.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfa760bbd4740c2359c24"
+  },
+  "name": "Kitchen",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:21:42.170Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:21:42.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfa8d0bbd4740c2359c28"
+  },
+  "name": "Living room",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:22:05.684Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:22:05.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfaa80bbd4740c2359c2c"
+  },
+  "name": "Project furniture",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:22:32.331Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:22:32.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfadc0bbd4740c2359c30"
+  },
+  "name": "Outdoor",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:23:24.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:23:24.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfae10bbd4740c2359c34"
+  },
+  "name": "Other (Furniture)",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:23:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:23:29.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfae90bbd4740c2359c38"
+  },
+  "name": "Office",
+  "selectorsId": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:23:37.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:23:37.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfb8f0bbd4740c2359c41"
+  },
+  "name": "Machinery components",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:26:23.691Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:26:23.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcffa40bbd4740c2359c45"
+  },
+  "name": "Machinery equipment/tools",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:43:48.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:43:48.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcffc10bbd4740c2359c49"
+  },
+  "name": "Manufacture of machinery",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:44:17.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:44:17.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcffd50bbd4740c2359c4d"
+  },
+  "name": "Maritime",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T14:44:37.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:04:04.585Z"
+  },
+  "__v": 0,
+  "sub_subSelectorsId": [
+    {
+      "$oid": "65bd0f97377fb572f1829051"
+    },
+    {
+      "$oid": "65bd126955409be02478624b"
+    },
+    {
+      "$oid": "65bd127455409be02478624f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bd12d455409be024786253"
+  },
+  "name": "Metal structures",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:05:40.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:05:40.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd12ea55409be024786257"
+  },
+  "name": "Repair and maintenance service",
+  "selectorsId": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:06:02.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:06:02.091Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd136955409be024786265"
+  },
+  "name": "Construction of metal structures",
+  "selectorsId": {
+    "$oid": "65bd134c55409be024786262"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:08:09.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:08:09.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd138255409be024786269"
+  },
+  "name": "Houses and buildings",
+  "selectorsId": {
+    "$oid": "65bd134c55409be024786262"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:08:34.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:08:34.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd138855409be02478626d"
+  },
+  "name": "Metal products",
+  "selectorsId": {
+    "$oid": "65bd134c55409be024786262"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:08:40.140Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:08:40.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd139955409be024786271"
+  },
+  "name": "Metal works",
+  "selectorsId": {
+    "$oid": "65bd134c55409be024786262"
+  },
+  "sub_subSelectorsId": [
+    {
+      "$oid": "65bd13b355409be024786275"
+    },
+    {
+      "$oid": "65bd13c855409be024786279"
+    },
+    {
+      "$oid": "65bd13e855409be02478627d"
+    },
+    {
+      "$oid": "65bd13fa55409be024786281"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:08:57.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:10:34.970Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd145d55409be02478628e"
+  },
+  "name": "Packaging",
+  "selectorsId": {
+    "$oid": "65bd140855409be024786285"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:12:13.245Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:12:13.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd146d55409be024786292"
+  },
+  "name": "Plastic goods",
+  "selectorsId": {
+    "$oid": "65bd140855409be024786285"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:12:29.871Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:12:29.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd149c55409be024786296"
+  },
+  "name": "Plastic processing technology",
+  "selectorsId": {
+    "$oid": "65bd140855409be024786285"
+  },
+  "sub_subSelectorsId": [
+    {
+      "$oid": "65bd14b655409be02478629a"
+    },
+    {
+      "$oid": "65bd14c355409be02478629e"
+    },
+    {
+      "$oid": "65bd14e855409be0247862a2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:13:16.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:14:32.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd14fa55409be0247862a6"
+  },
+  "name": "Plastic profiles",
+  "selectorsId": {
+    "$oid": "65bd140855409be024786285"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:14:50.620Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:14:50.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd156e55409be0247862ad"
+  },
+  "name": "Advertising",
+  "selectorsId": {
+    "$oid": "65bd155255409be0247862aa"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:16:46.781Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:16:46.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd159c55409be0247862b7"
+  },
+  "name": "Book/Periodicals printing",
+  "selectorsId": {
+    "$oid": "65bd155255409be0247862aa"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:17:32.458Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:17:32.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd15ac55409be0247862bb"
+  },
+  "name": "Labelling and packaging printing",
+  "selectorsId": {
+    "$oid": "65bd155255409be0247862aa"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:17:48.775Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:17:48.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd15db55409be0247862c2"
+  },
+  "name": "Clothing",
+  "selectorsId": {
+    "$oid": "65bd15c455409be0247862bf"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:18:35.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:18:35.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd15f155409be0247862c6"
+  },
+  "name": "Textile",
+  "selectorsId": {
+    "$oid": "65bd15c455409be0247862bf"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:18:57.262Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:18:57.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd163e55409be0247862cd"
+  },
+  "name": "Other (Wood)",
+  "selectorsId": {
+    "$oid": "65bd160055409be0247862ca"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:20:14.669Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:20:14.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd165555409be0247862d1"
+  },
+  "name": "Wooden building materials",
+  "selectorsId": {
+    "$oid": "65bd160055409be0247862ca"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:20:37.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:20:37.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd166255409be0247862d5"
+  },
+  "name": "Wooden houses",
+  "selectorsId": {
+    "$oid": "65bd160055409be0247862ca"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:20:50.339Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:20:50.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16b555409be0247862dc"
+  },
+  "name": "Creative industries",
+  "selectorsId": {
+    "$oid": "65bd169655409be0247862d9"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:22:13.495Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:22:13.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16bc55409be0247862e0"
+  },
+  "name": "Energy technology",
+  "selectorsId": {
+    "$oid": "65bd169655409be0247862d9"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:22:20.782Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:22:20.782Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16c355409be0247862e4"
+  },
+  "name": "Environment",
+  "selectorsId": {
+    "$oid": "65bd169655409be0247862d9"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:22:27.453Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:22:27.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16ea55409be0247862eb"
+  },
+  "name": "Business services",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:23:06.376Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:23:06.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16f855409be0247862ef"
+  },
+  "name": "Engineering",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:23:20.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:23:20.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd170455409be0247862f3"
+  },
+  "name": "Information Technology and Telecommunications",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [
+    {
+      "$oid": "65bd174055409be0247862f7"
+    },
+    {
+      "$oid": "65bd174f55409be0247862fb"
+    },
+    {
+      "$oid": "65bd175d55409be0247862ff"
+    },
+    {
+      "$oid": "65bd177155409be024786303"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:23:32.367Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:25:21.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd177f55409be024786307"
+  },
+  "name": "Tourism",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:25:35.641Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:25:35.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd178e55409be02478630b"
+  },
+  "name": "Translation services",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T16:25:50.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:25:50.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd179d55409be02478630f"
+  },
+  "name": "Transport and Logistics",
+  "selectorsId": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "sub_subSelectorsId": [
+    {
+      "$oid": "65bd17b355409be024786313"
+    },
+    {
+      "$oid": "65bd17be55409be024786317"
+    },
+    {
+      "$oid": "65bd17c955409be02478631b"
+    },
+    {
+      "$oid": "65bd17d555409be02478631f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:26:05.429Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:27:01.839Z"
+  },
+  "__v": 0
+}]

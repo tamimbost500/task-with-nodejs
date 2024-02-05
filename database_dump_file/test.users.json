@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "65bd1b2a55409be02478636f"
+  },
+  "email": "test23@gmail.com",
+  "name": "dgfdg",
+  "selectors": "sub cate items",
+  "agree_to_terms": true,
+  "createdAt": {
+    "$date": "2024-02-02T16:41:14.730Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:41:14.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd1d4355409be02478638d"
+  },
+  "email": "lanihaxa@mailinator.com",
+  "name": "Eligendi harum ea an",
+  "selectors": "Metal works",
+  "agree_to_terms": true,
+  "createdAt": {
+    "$date": "2024-02-02T16:50:11.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:50:11.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd1fdc97edaca6ae5b5b35"
+  },
+  "email": "test-25@gmail.com",
+  "name": "dgtrtrtfdfdf",
+  "selectors": "Bedroom",
+  "agree_to_terms": true,
+  "createdAt": {
+    "$date": "2024-02-02T17:01:16.350Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T17:01:16.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd21af97edaca6ae5b5b56"
+  },
+  "email": "developer.reshma6@gmail.com",
+  "name": "reshma khanam ratna",
+  "selectors": "Bedroom",
+  "agree_to_terms": true,
+  "createdAt": {
+    "$date": "2024-02-02T17:09:03.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-03T13:06:25.579Z"
+  },
+  "__v": 0
+}]

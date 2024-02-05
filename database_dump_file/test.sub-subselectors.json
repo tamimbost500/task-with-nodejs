@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "65bd0f97377fb572f1829051"
+  },
+  "name": " Aluminium and steel workboats",
+  "subSelectorsId": {
+    "$oid": "65bcffd50bbd4740c2359c4d"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T15:51:51.921Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T15:51:51.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd126955409be02478624b"
+  },
+  "name": " Boat/Yacht building",
+  "subSelectorsId": {
+    "$oid": "65bcffd50bbd4740c2359c4d"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:03:53.558Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:03:53.558Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd127455409be02478624f"
+  },
+  "name": " Ship repair and conversion",
+  "subSelectorsId": {
+    "$oid": "65bcffd50bbd4740c2359c4d"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:04:04.542Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:04:04.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd13b355409be024786275"
+  },
+  "name": " CNC-machining",
+  "subSelectorsId": {
+    "$oid": "65bd139955409be024786271"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:09:23.114Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:09:23.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd13c855409be024786279"
+  },
+  "name": " Forgings, Fasteners",
+  "subSelectorsId": {
+    "$oid": "65bd139955409be024786271"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:09:44.325Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:09:44.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd13e855409be02478627d"
+  },
+  "name": " Gas, Plasma, Laser cutting",
+  "subSelectorsId": {
+    "$oid": "65bd139955409be024786271"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:10:16.246Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:10:16.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd13fa55409be024786281"
+  },
+  "name": " MIG,TIG, Aluminum welding",
+  "subSelectorsId": {
+    "$oid": "65bd139955409be024786271"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:10:34.927Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:10:34.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd14b655409be02478629a"
+  },
+  "name": " Blowing",
+  "subSelectorsId": {
+    "$oid": "65bd149c55409be024786296"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:13:42.563Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:13:42.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd14c355409be02478629e"
+  },
+  "name": " Moulding",
+  "subSelectorsId": {
+    "$oid": "65bd149c55409be024786296"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:13:55.421Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:13:55.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd14e855409be0247862a2"
+  },
+  "name": " Plastics welding and processing",
+  "subSelectorsId": {
+    "$oid": "65bd149c55409be024786296"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:14:32.193Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:14:32.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd174055409be0247862f7"
+  },
+  "name": " Data processing, Web portals, E-marketing",
+  "subSelectorsId": {
+    "$oid": "65bd170455409be0247862f3"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:24:32.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:24:32.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd174f55409be0247862fb"
+  },
+  "name": " Programming, Consultancy",
+  "subSelectorsId": {
+    "$oid": "65bd170455409be0247862f3"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:24:47.549Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:24:47.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd175d55409be0247862ff"
+  },
+  "name": " Software, Hardware",
+  "subSelectorsId": {
+    "$oid": "65bd170455409be0247862f3"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:25:01.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:25:01.276Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd177155409be024786303"
+  },
+  "name": "Telecommunications",
+  "subSelectorsId": {
+    "$oid": "65bd170455409be0247862f3"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:25:21.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:25:21.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd17b355409be024786313"
+  },
+  "name": "Air",
+  "subSelectorsId": {
+    "$oid": "65bd179d55409be02478630f"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:26:27.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:26:27.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd17be55409be024786317"
+  },
+  "name": "Rail",
+  "subSelectorsId": {
+    "$oid": "65bd179d55409be02478630f"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:26:38.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:26:38.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd17c955409be02478631b"
+  },
+  "name": "Road",
+  "subSelectorsId": {
+    "$oid": "65bd179d55409be02478630f"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:26:49.644Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:26:49.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd17d555409be02478631f"
+  },
+  "name": "Water",
+  "subSelectorsId": {
+    "$oid": "65bd179d55409be02478630f"
+  },
+  "createdAt": {
+    "$date": "2024-02-02T16:27:01.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:27:01.797Z"
+  },
+  "__v": 0
+}]

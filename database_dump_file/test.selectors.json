@@ -1,0 +1,349 @@
+[{
+  "_id": {
+    "$oid": "65bc937a8c351619f861dbc1"
+  },
+  "name": "Manufacturing",
+  "subSelectorsId": [
+    {
+      "$oid": "65bc9531956456c700a3d11a"
+    },
+    {
+      "$oid": "65bc9552956456c700a3d11d"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T07:02:18.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T07:10:10.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf020efeefd093b2fef7c"
+  },
+  "name": "Furniture",
+  "subSelectorsId": [
+    {
+      "$oid": "65bcf15defeefd093b2fef81"
+    },
+    {
+      "$oid": "65bcfa3f0bbd4740c2359c18"
+    },
+    {
+      "$oid": "65bcfa590bbd4740c2359c1c"
+    },
+    {
+      "$oid": "65bcfa690bbd4740c2359c20"
+    },
+    {
+      "$oid": "65bcfa760bbd4740c2359c24"
+    },
+    {
+      "$oid": "65bcfa8d0bbd4740c2359c28"
+    },
+    {
+      "$oid": "65bcfaa80bbd4740c2359c2c"
+    },
+    {
+      "$oid": "65bcfadc0bbd4740c2359c30"
+    },
+    {
+      "$oid": "65bcfae10bbd4740c2359c34"
+    },
+    {
+      "$oid": "65bcfae90bbd4740c2359c38"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T13:37:36.231Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:23:38.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf89e0bbd4740c2359bf3"
+  },
+  "name": "Construction materials",
+  "subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T14:13:50.800Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:13:50.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf8c10bbd4740c2359bf6"
+  },
+  "name": "Electronics and Optics",
+  "subSelectorsId": [],
+  "createdAt": {
+    "$date": "2024-02-02T14:14:25.004Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:14:25.004Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcf9360bbd4740c2359bf9"
+  },
+  "name": "Food and Beverage",
+  "subSelectorsId": [
+    {
+      "$oid": "65bcf96d0bbd4740c2359bfc"
+    },
+    {
+      "$oid": "65bcf97d0bbd4740c2359c00"
+    },
+    {
+      "$oid": "65bcf9a30bbd4740c2359c04"
+    },
+    {
+      "$oid": "65bcf9b60bbd4740c2359c08"
+    },
+    {
+      "$oid": "65bcf9d20bbd4740c2359c0c"
+    },
+    {
+      "$oid": "65bcf9e00bbd4740c2359c10"
+    },
+    {
+      "$oid": "65bcf9f50bbd4740c2359c14"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T14:16:22.682Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T14:19:33.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bcfb1a0bbd4740c2359c3e"
+  },
+  "name": "Machinery",
+  "subSelectorsId": [
+    {
+      "$oid": "65bcfb8f0bbd4740c2359c41"
+    },
+    {
+      "$oid": "65bcffa40bbd4740c2359c45"
+    },
+    {
+      "$oid": "65bcffc10bbd4740c2359c49"
+    },
+    {
+      "$oid": "65bcffd50bbd4740c2359c4d"
+    },
+    {
+      "$oid": "65bd00530bbd4740c2359c55"
+    },
+    {
+      "$oid": "65bd00640bbd4740c2359c59"
+    },
+    {
+      "$oid": "65bd12d455409be024786253"
+    },
+    {
+      "$oid": "65bd12ea55409be024786257"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T14:24:26.530Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:06:02.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd134c55409be024786262"
+  },
+  "name": "Metalworking",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd136955409be024786265"
+    },
+    {
+      "$oid": "65bd138255409be024786269"
+    },
+    {
+      "$oid": "65bd138855409be02478626d"
+    },
+    {
+      "$oid": "65bd139955409be024786271"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:07:40.067Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:08:57.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd140855409be024786285"
+  },
+  "name": "Plastic and Rubber",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd145d55409be02478628e"
+    },
+    {
+      "$oid": "65bd146d55409be024786292"
+    },
+    {
+      "$oid": "65bd149c55409be024786296"
+    },
+    {
+      "$oid": "65bd14fa55409be0247862a6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:10:48.573Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:14:50.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd155255409be0247862aa"
+  },
+  "name": "Printing",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd156e55409be0247862ad"
+    },
+    {
+      "$oid": "65bd159c55409be0247862b7"
+    },
+    {
+      "$oid": "65bd15ac55409be0247862bb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:16:18.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:17:48.817Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd15c455409be0247862bf"
+  },
+  "name": "Textile and Clothing",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd15db55409be0247862c2"
+    },
+    {
+      "$oid": "65bd15f155409be0247862c6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:18:12.387Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:18:57.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd160055409be0247862ca"
+  },
+  "name": "Wood",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd163e55409be0247862cd"
+    },
+    {
+      "$oid": "65bd165555409be0247862d1"
+    },
+    {
+      "$oid": "65bd166255409be0247862d5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:19:12.040Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:20:50.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd169655409be0247862d9"
+  },
+  "name": "Other",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd16b555409be0247862dc"
+    },
+    {
+      "$oid": "65bd16bc55409be0247862e0"
+    },
+    {
+      "$oid": "65bd16c355409be0247862e4"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:21:42.735Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:22:27.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bd16d455409be0247862e8"
+  },
+  "name": "Service",
+  "subSelectorsId": [
+    {
+      "$oid": "65bd16ea55409be0247862eb"
+    },
+    {
+      "$oid": "65bd16f855409be0247862ef"
+    },
+    {
+      "$oid": "65bd170455409be0247862f3"
+    },
+    {
+      "$oid": "65bd177f55409be024786307"
+    },
+    {
+      "$oid": "65bd178e55409be02478630b"
+    },
+    {
+      "$oid": "65bd179d55409be02478630f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-02-02T16:22:44.200Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-02T16:26:05.472Z"
+  },
+  "__v": 0
+}]
